@@ -1,0 +1,5 @@
+u:teacher1 p:pass
+u:teacher2 p:pass
+u:teacher3 p:pass
+u:principal p:pass
+u:admin   p:pass
